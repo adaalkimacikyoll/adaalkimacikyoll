@@ -59,6 +59,14 @@ Web-based platform designed for **academic collaboration, task management, and r
 
 ---
 
+###🔹 Flightradar24 – UX Audit & Redesign Prototype
+
+Web-based usability audit and redesign of the Flightradar24 flight tracking application, focused on improving aircraft identification, airline differentiation, and weather hazard visualization through structured UX principles and progressive interaction design.
+
+**Tech:** TypeScript · CSS · Swift · HTML · UX Research · Interaction Design
+
+---
+
 ### 🔹 Scientific Calculator
 Java-based GUI calculator developed for **object-oriented programming practice**, including **scientific, logarithmic, and trigonometric operations**.  
 
