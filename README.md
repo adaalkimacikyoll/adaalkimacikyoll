@@ -59,8 +59,7 @@ Web-based platform designed for **academic collaboration, task management, and r
 
 ---
 
-###🔹 Flightradar24 – UX Audit & Redesign Prototype
-
+### 🔹 Flightradar24 – UX Audit & Redesign Prototype
 Web-based platform designed for usability analysis and interface redesign, focused on improving aircraft identification, airline differentiation, and weather hazard visualization, with an emphasis on structured UX principles and progressive interaction design.
 
 **Tech:** TypeScript · CSS · Swift · HTML · UX Research · Interaction Design
