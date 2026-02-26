@@ -45,28 +45,28 @@ Python-based mini-framework for firmware validation, including **SHA256 integrit
 
 ---
 
-### 🌻 Dilo – AI Emotional Support Companion
+### 🔹 Dilo – AI Emotional Support Companion
 AI-powered mental wellness chat application with **dual interaction modes, mood-based recommendations, and multilingual support**.  
 
 **Tech:** React · TypeScript · Vite · Tailwind CSS · Full-Stack  
 
 ---
 
-### 🎓 EduCampus – Student Collaboration Platform
+### 🔹 EduCampus – Student Collaboration Platform
 Web-based platform designed for **academic collaboration, task management, and resource sharing**, with a focus on **scalable components and clean UI design**.  
 
 **Tech:** React · TypeScript · Tailwind · Vite · Full-Stack  
 
 ---
 
-### 🧮 Scientific Calculator
+### 🔹 Scientific Calculator
 Java-based GUI calculator developed for **object-oriented programming practice**, including **scientific, logarithmic, and trigonometric operations**.  
 
 **Tech:** Java · OOP · GUI  
 
 ---
 
-### 🐾 Animal Shelter PostgreSQL Project 
+### 🔹 Animal Shelter PostgreSQL Project 
 Database project focused on **schema design, CSV data import, and SQL query optimization**.  
 
 **Tech:** PostgreSQL · SQL · Backend  
