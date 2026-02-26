@@ -45,6 +45,12 @@ Python-based mini-framework for firmware validation, including **SHA256 integrit
 
 ---
 
+### 🔹 CAN Bus Analyzer
+CLI tool for parsing and analyzing CAN bus log files used in modern vehicles, automating anomaly detection such as flooding, unknown IDs, and signal dropouts, and generating structured JSON and visual HTML reports. Includes Docker support and full test coverage, reflecting real-world automotive and ECU validation workflows.
+**Tech:** Python · CAN Bus · Docker · CLI · JSON · HTML
+
+---
+
 ### 🔹 Dilo – AI Emotional Support Companion
 AI-powered mental wellness chat application with **dual interaction modes, mood-based recommendations, and multilingual support**.  
 
