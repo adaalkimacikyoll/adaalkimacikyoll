@@ -29,7 +29,7 @@ My key areas of expertise include:
 
 ---
 
-## 📍 Selected Projects
+## 📍 Projects
 
 ### 🔹 Taply – AI-Powered Payment Splitting App
 Mobile application that **simplifies shared payments** through receipt scanning and automatic cost splitting. Includes an **intelligent loyalty rewards system**.  
