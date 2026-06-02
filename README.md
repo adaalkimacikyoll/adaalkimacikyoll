@@ -38,6 +38,13 @@ Mobile application that **simplifies shared payments** through receipt scanning 
 
 ---
 
+### 🔹 Portfolio Website
+Personal portfolio of a Software Engineering student focused on AI, embedded systems & full-stack development. Built with HTML/CSS/JS · Deployed on GitHub Pages. 
+
+**Tech:** HTML · CSS · JS 
+
+---
+
 ### 🔹 Firmware Regression Testing Framework
 Python-based mini-framework for firmware validation, including **SHA256 integrity checks, header parsing, automated regression tests, and Docker-based CI integration**.  
 
@@ -56,13 +63,6 @@ CLI tool for parsing and analyzing CAN bus log files used in modern vehicles, au
 AI-powered mental wellness chat application with **dual interaction modes, mood-based recommendations, and multilingual support**.  
 
 **Tech:** React · TypeScript · Vite · Tailwind CSS · Full-Stack  
-
----
-
-### 🔹 EduCampus – Student Collaboration Platform
-Web-based platform designed for **academic collaboration, task management, and resource sharing**, with a focus on **scalable components and clean UI design**.  
-
-**Tech:** React · TypeScript · Tailwind · Vite · Full-Stack  
 
 
 ---
