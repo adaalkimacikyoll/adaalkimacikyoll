@@ -64,26 +64,6 @@ Web-based platform designed for **academic collaboration, task management, and r
 
 **Tech:** React · TypeScript · Tailwind · Vite · Full-Stack  
 
----
-
-### 🔹 Flightradar24 – UX Audit & Redesign Prototype
-Web-based platform designed for usability analysis and interface redesign, focused on improving aircraft identification, airline differentiation, and weather hazard visualization, with an emphasis on structured UX principles and progressive interaction design.
-
-**Tech:** TypeScript · CSS · Swift · HTML · UX Research · Interaction Design
-
----
-
-### 🔹 Scientific Calculator
-Java-based GUI calculator developed for **object-oriented programming practice**, including **scientific, logarithmic, and trigonometric operations**.  
-
-**Tech:** Java · OOP · GUI  
-
----
-
-### 🔹 Animal Shelter PostgreSQL Project 
-Database project focused on **schema design, CSV data import, and SQL query optimization**.  
-
-**Tech:** PostgreSQL · SQL · Backend  
 
 ---
 
