@@ -1,10 +1,10 @@
-# 👋 Hello, I’m Ada Alkım Açıkyol
+#  Hello, I’m Ada Alkım Açıkyol
 
 **Software Engineering Student | AI & Full-Stack Developer | Tech Enthusiast**  
 
-🎓 B.Sc. Software Engineering @ University of Europe for Applied Sciences  
-📍 Based in Germany  
-🌍 Languages: Turkish (Native) | English (C1)  
+  B.Sc. Software Engineering @ University of Europe for Applied Sciences  
+  Based in Germany  
+  Languages: Turkish (Native) | English (C1)  | German(A1)
 
 ---
 
@@ -13,10 +13,10 @@
 I am a dedicated and detail-oriented software engineering student focused on developing **structured, scalable, and efficient software systems**.  
 
 My key areas of expertise include:  
-- 🤖 AI-powered applications  
-- 🧪 Automated testing and quality assurance  
-- 🌐 Modern web and mobile technologies  
-- 🧩 Clean architecture, problem-solving, and maintainable code  
+-  AI-powered applications  
+-  Automated testing and quality assurance  
+-  Modern web and mobile technologies  
+-  Clean architecture, problem-solving, and maintainable code  
 
 ---
 
@@ -29,7 +29,7 @@ My key areas of expertise include:
 
 ---
 
-## 📍 Projects
+##  Projects
 
 ### 🔹 Taply – AI-Powered Payment Splitting App
 Mobile application that **simplifies shared payments** through receipt scanning and automatic cost splitting. Includes an **intelligent loyalty rewards system**.  
