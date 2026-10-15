@@ -65,14 +65,7 @@ AI-powered mental wellness chat application with **dual interaction modes, mood-
 **Tech:** React · TypeScript · Vite · Tailwind CSS · Full-Stack  
 
 
----
 
-## 🎯 Career Objectives
-
-I aim to gain **hands-on internship experience** where I can:  
-- Contribute to **real-world software projects**  
-- Strengthen my **AI and full-stack development skills (mostly backend)**  
-- Work effectively in **collaborative and innovative teams**
 
 
 <!--
