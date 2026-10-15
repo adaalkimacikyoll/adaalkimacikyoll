@@ -8,7 +8,7 @@
 
 ---
 
-## 💼 Professional Summary
+##  Professional Summary
 
 I am a dedicated and detail-oriented software engineering student focused on developing **structured, scalable, and efficient software systems**.  
 
@@ -20,7 +20,7 @@ My key areas of expertise include:
 
 ---
 
-## 🛠 Technical Skills
+##  Technical Skills
 
 **Programming Languages:** Python · Java · Dart · TypeScript · JavaScript · SQL  
 **Frameworks & Tools:** Flutter · React.js · Pytest · Docker · Tkinter · Java Swing · Vite · Tailwind CSS · Git · VirtualBox 
