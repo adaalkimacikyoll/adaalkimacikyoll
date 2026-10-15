@@ -1,84 +1,106 @@
-#  Hello, I’m Ada Alkım Açıkyol
+# Ada Alkım Açıkyol
 
-**Software Engineering Student | AI & Full-Stack Developer | Tech Enthusiast**  
+**Software Engineering Student · Co-founder & CEO of Taply · AI & Full-Stack Developer**
 
-  B.Sc. Software Engineering @ University of Europe for Applied Sciences  
-  Based in Germany  
-  Languages: Turkish (Native) | English (C1)  | German(A1)
+B.Sc. Software Engineering at the University of Europe for Applied Sciences, Potsdam, Germany
 
----
-
-##  Professional Summary
-
-I am a dedicated and detail-oriented software engineering student focused on developing **structured, scalable, and efficient software systems**.  
-
-My key areas of expertise include:  
--  AI-powered applications  
--  Automated testing and quality assurance  
--  Modern web and mobile technologies  
--  Clean architecture, problem-solving, and maintainable code  
+[Portfolio](https://adaacikyol.dev) · [LinkedIn](https://linkedin.com/in/ada-alkım-açıkyol-a398a8282) · [Email](mailto:ada.acikyol@gmail.com)
 
 ---
 
-##  Technical Skills
+## About
 
-**Programming Languages:** Python · Java · Dart · TypeScript · JavaScript · SQL  
-**Frameworks & Tools:** Flutter · React.js · Pytest · Docker · Tkinter · Java Swing · Vite · Tailwind CSS · Git · VirtualBox 
-**Databases:** PostgreSQL  
-**Operating Systems:** Ubuntu · Debian  
+I am a software engineering student focused on building structured, scalable and maintainable software that solves real problems. My work sits at the intersection of applied AI, embedded systems validation and full-stack development.
 
----
+As co-founder and CEO of **Taply**, an AI-powered fintech startup, I lead product development end to end: defining the architecture, coordinating the team and shipping features to a live product. Alongside my studies I work at the University of Europe for Applied Sciences, where I coordinate student services and activities.
 
-##  Projects
+**Current focus**
 
-### 🔹 Taply – AI-Powered Payment Splitting App
-Mobile application that **simplifies shared payments** through receipt scanning and automatic cost splitting. Includes an **intelligent loyalty rewards system**.  
-
-**Tech:** Flutter · Dart · AI · Mobile Development · Full-Stack (Mostly Backend)  
+- Building Taply, an AI-powered payment splitting app
+- Automated testing and quality assurance for embedded and firmware systems
+- Modern web and mobile development with React and Flutter
+- Open to junior software engineering roles
 
 ---
 
-### 🔹 Portfolio Website
-Personal portfolio of a Software Engineering student focused on AI, embedded systems & full-stack development. Built with HTML/CSS/JS · Deployed on GitHub Pages. 
+## Technical Skills
 
-**Tech:** HTML · CSS · JS 
-
----
-
-### 🔹 Firmware Regression Testing Framework
-Python-based mini-framework for firmware validation, including **SHA256 integrity checks, header parsing, automated regression tests, and Docker-based CI integration**.  
-
-**Tech:** Python · Docker · Pytest · Linux · Backend  
+| Area | Technologies |
+|---|---|
+| Languages | Python · Java · TypeScript · JavaScript · Dart · SQL |
+| Frontend & Mobile | React.js · Flutter · Vite · Tailwind CSS |
+| DevOps & Testing | Docker · Git · Linux · CI/CD · Pytest |
+| Databases & Tools | PostgreSQL · Figma · VirtualBox · Java Swing · Tkinter |
+| Operating Systems | Ubuntu · Debian · macOS · Windows |
 
 ---
 
-### 🔹 CAN Bus Analyzer
-CLI tool for parsing and analyzing CAN bus log files used in modern vehicles, automating anomaly detection such as flooding, unknown IDs, and signal dropouts, and generating structured JSON and visual HTML reports. Includes Docker support and full test coverage, reflecting real-world automotive and ECU validation workflows.
+## Featured Projects
 
-**Tech:** Python · CAN Bus · Docker · CLI · JSON · HTML
+### Taply — AI-Powered Payment Splitting
+Co-founded fintech mobile application that removes friction from shared expenses, from dinner bills to group travel. Features AI-powered receipt scanning with automatic cost splitting, real-time payment notifications and a smart loyalty rewards system, backed by a scalable architecture serving a live product.
+
+`Flutter` `Dart` `AI` `Fintech`
+
+### [CAN Bus Analyzer](https://github.com/adaalkimacikyoll/can-bus-analyzer)
+Command-line diagnostic tool for parsing and analyzing CAN bus log files used in automotive ECU communication. Detects anomalies such as flooding, unknown IDs and signal dropouts, and generates structured JSON and visual HTML reports. Dockerized with full test coverage, reflecting real-world ECU validation workflows.
+
+`Python` `Docker` `CLI` `Automotive`
+
+### Firmware Regression Testing Framework
+Automated regression testing framework for validating embedded firmware updates in CI pipelines. Includes binary header parsing, SHA256 integrity verification per firmware package, automated Pytest suites and a Dockerized environment for reproducible testing.
+
+`Python` `Pytest` `Docker` `CI/CD`
+
+### Dilo — AI Emotional Support Companion
+Full-stack mental wellness application addressing the accessibility gap in emotional support. Offers two interaction modes (friendly companion and psychologist persona), mood-based recommendations and support for seven languages.
+
+`React` `TypeScript` `Vite` `Tailwind CSS` `AI`
+
+### EduCampus
+Unified student collaboration platform bringing task management, resource sharing and real-time academic teamwork into one place, built on a scalable component architecture for multi-university use.
+
+`React` `TypeScript` `Tailwind CSS` `Vite`
+
+### Scientific Calculator
+Java desktop calculator supporting logarithmic, trigonometric and standard operations, built on a clean object-oriented design that separates logic from presentation.
+
+`Java` `Swing` `OOP`
+
+### [Portfolio Website](https://github.com/adaalkimacikyoll/adaacikyol.dev)
+Personal portfolio built from scratch with vanilla HTML, CSS and JavaScript, including a serverless contact form with automated email replies. Deployed on Vercel at [adaacikyol.dev](https://adaacikyol.dev).
+
+`HTML` `CSS` `JavaScript` `Node.js` `Vercel`
 
 ---
 
-### 🔹 Dilo – AI Emotional Support Companion
-AI-powered mental wellness chat application with **dual interaction modes, mood-based recommendations, and multilingual support**.  
+## Experience
 
-**Tech:** React · TypeScript · Vite · Tailwind CSS · Full-Stack  
+**Co-founder & CEO** — Taply · Berlin · *Nov 2024 – Present*
+Leading development of an AI-powered expense splitting platform from the ground up, defining product architecture and managing the full product lifecycle from ideation to live deployment.
 
+**Student Service and Activities Coordinator** — University of Europe for Applied Sciences · Potsdam · *Mar 2026 – Present*
+Acting as the bridge between students and university departments, supporting students through university processes and coordinating student activities.
 
+**Peer Leader** — University of Europe for Applied Sciences · Potsdam · *Mar 2025 – Mar 2026*
+Mentored and onboarded new students, led planning of campus and off-campus events including orientation, and collaborated with university leadership.
 
+---
 
+## Languages
 
-<!--
-**adaalkimacikyoll/adaalkimacikyoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Language | Level |
+|---|---|
+| Turkish | Native |
+| English | Advanced (C1) |
+| German | Beginner (A1) |
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+
+I am open to junior software engineering opportunities and collaborations.
+
+- Portfolio: [adaacikyol.dev](https://adaacikyol.dev)
+- LinkedIn: [ada-alkım-açıkyol](https://linkedin.com/in/ada-alkım-açıkyol-a398a8282)
+- Email: [ada.acikyol@gmail.com](mailto:ada.acikyol@gmail.com)
