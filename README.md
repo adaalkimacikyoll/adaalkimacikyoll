@@ -44,7 +44,7 @@ Co-founded fintech mobile application that removes friction from shared expenses
 
 `Flutter` `Dart` `AI` `Fintech`
 
-### [CAN Bus Analyzer](https://github.com/adaalkimacikyoll/can-bus-analyzer)
+### CAN Bus Analyzer
 Command-line diagnostic tool for parsing and analyzing CAN bus log files used in automotive ECU communication. Detects anomalies such as flooding, unknown IDs and signal dropouts, and generates structured JSON and visual HTML reports. Dockerized with full test coverage, reflecting real-world ECU validation workflows.
 
 `Python` `Docker` `CLI` `Automotive`
