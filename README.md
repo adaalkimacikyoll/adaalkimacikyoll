@@ -30,6 +30,7 @@ As co-founder and CEO of **Taply**, an AI-powered fintech startup, I lead produc
 |---|---|
 | Languages | Python · Java · TypeScript · JavaScript · Dart · SQL |
 | Frontend & Mobile | React.js · Flutter · Vite · Tailwind CSS |
+| Backend | Django |
 | DevOps & Testing | Docker · Git · Linux · CI/CD · Pytest |
 | Databases & Tools | PostgreSQL · Figma · VirtualBox · Java Swing · Tkinter |
 | Operating Systems | Ubuntu · Debian · macOS · Windows |
