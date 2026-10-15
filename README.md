@@ -12,10 +12,11 @@ B.Sc. Software Engineering at the University of Europe for Applied Sciences, Pot
 
 I am a software engineering student focused on building structured, scalable and maintainable software that solves real problems. My work sits at the intersection of applied AI, embedded systems validation and full-stack development.
 
-As co-founder and CEO of **Taply**, an AI-powered fintech startup, I lead product development end to end: defining the architecture, coordinating the team and shipping features to a live product. Alongside my studies I work at the University of Europe for Applied Sciences, where I coordinate student services and activities.
+As co-founder and CEO of **Taply**, an AI-powered fintech startup, I lead product development end to end: defining the architecture, coordinating the team and shipping features to a live product. Alongside my studies I am currently a Web Developer Intern at the University of Europe for Applied Sciences.
 
 **Current focus**
 
+- Web development as an intern at the University of Europe for Applied Sciences
 - Building Taply, an AI-powered payment splitting app
 - Automated testing and quality assurance for embedded and firmware systems
 - Modern web and mobile development with React and Flutter
@@ -78,6 +79,9 @@ Personal portfolio built from scratch with vanilla HTML, CSS and JavaScript, inc
 
 **Co-founder & CEO** — Taply · Berlin · *Nov 2024 – Present*
 Leading development of an AI-powered expense splitting platform from the ground up, defining product architecture and managing the full product lifecycle from ideation to live deployment.
+
+**Web Developer Intern** — University of Europe for Applied Sciences · Potsdam · *Sep 2026 – Present*
+Developing and maintaining web solutions for the university as part of a 26-week software engineering internship.
 
 **Student Service and Activities Coordinator** — University of Europe for Applied Sciences · Potsdam · *Mar 2026 – Present*
 Acting as the bridge between students and university departments, supporting students through university processes and coordinating student activities.
