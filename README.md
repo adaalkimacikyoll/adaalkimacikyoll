@@ -19,7 +19,7 @@ As co-founder and CEO of **Taply**, an AI-powered fintech startup, I lead produc
 - Web development as an intern at the University of Europe for Applied Sciences
 - Building Taply, an AI-powered payment splitting app
 - Automated testing and quality assurance for embedded and firmware systems
-- Modern web and mobile development with React and Flutter
+- Modern web and mobile development 
 - Open to junior software engineering roles
 
 ---
