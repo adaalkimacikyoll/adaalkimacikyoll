@@ -69,7 +69,7 @@ Java desktop calculator supporting logarithmic, trigonometric and standard opera
 
 `Java` `Swing` `OOP`
 
-### [Portfolio Website](https://github.com/adaalkimacikyoll/adaacikyol.dev)
+### Portfolio Website
 Personal portfolio built from scratch with vanilla HTML, CSS and JavaScript, including a serverless contact form with automated email replies. Deployed on Vercel at [adaacikyol.dev](https://adaacikyol.dev).
 
 `HTML` `CSS` `JavaScript` `Node.js` `Vercel`
