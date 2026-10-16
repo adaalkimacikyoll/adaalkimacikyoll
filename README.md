@@ -1,6 +1,6 @@
 # Ada Alkım Açıkyol
 
-**Software Engineering Student · Co-founder & CEO of Taply · AI & Full-Stack Developer**
+**Software Engineering Student · CEO of Taply · AI & Full-Stack Developer**
 
 B.Sc. Software Engineering at the University of Europe for Applied Sciences, Potsdam, Germany
 
