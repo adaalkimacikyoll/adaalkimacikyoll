@@ -1,6 +1,6 @@
 # Ada Alkım Açıkyol
 
-**Software Engineering Student · Co-founder of Taply · AI & Full-Stack Developer**
+**Software Engineering Student · Co-founder & CPO of Taply · AI & Full-Stack Developer**
 
 B.Sc. Software Engineering at the University of Europe for Applied Sciences, Potsdam, Germany
 
@@ -78,7 +78,7 @@ Personal portfolio built from scratch with vanilla HTML, CSS and JavaScript, inc
 
 ## Experience
 
-**Co-founder** — Taply · Berlin · *Nov 2024 – Present*
+**Co-founder & Chief Product Officer** — Taply · Berlin · *Nov 2024 – Present*
 Leading development of an AI-powered expense splitting platform from the ground up, defining product architecture and managing the full product lifecycle from ideation to live deployment.
 
 **Web Developer Intern** — University of Europe for Applied Sciences · Potsdam · *Sep 2026 – Present*
