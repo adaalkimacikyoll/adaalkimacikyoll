@@ -1,6 +1,6 @@
 # Ada Alkım Açıkyol
 
-**Software Engineering Student · CEO of Taply · AI & Full-Stack Developer**
+**Software Engineering Student · Co-founder of Taply · AI & Full-Stack Developer**
 
 B.Sc. Software Engineering at the University of Europe for Applied Sciences, Potsdam, Germany
 
@@ -12,7 +12,7 @@ B.Sc. Software Engineering at the University of Europe for Applied Sciences, Pot
 
 I am a software engineering student focused on building structured, scalable and maintainable software that solves real problems. My work sits at the intersection of applied AI, embedded systems validation and full-stack development.
 
-As co-founder and CEO of **Taply**, an AI-powered fintech startup, I lead product development end to end: defining the architecture, coordinating the team and shipping features to a live product. Alongside my studies I am currently a Web Developer Intern at the University of Europe for Applied Sciences.
+As co-founder of **Taply**, an AI-powered fintech startup, I lead product development end to end: defining the architecture, coordinating the team and shipping features to a live product. Alongside my studies I am currently a Web Developer Intern at the University of Europe for Applied Sciences.
 
 **Current focus**
 
@@ -78,7 +78,7 @@ Personal portfolio built from scratch with vanilla HTML, CSS and JavaScript, inc
 
 ## Experience
 
-**Co-founder & CEO** — Taply · Berlin · *Nov 2024 – Present*
+**Co-founder** — Taply · Berlin · *Nov 2024 – Present*
 Leading development of an AI-powered expense splitting platform from the ground up, defining product architecture and managing the full product lifecycle from ideation to live deployment.
 
 **Web Developer Intern** — University of Europe for Applied Sciences · Potsdam · *Sep 2026 – Present*
